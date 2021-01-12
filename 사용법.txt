@@ -20,4 +20,4 @@ Left : 좌클릭(DLeft : 더블클릭) / Right : 우클릭 / Key : 키보드 입
 - 시작: F3
 - 강제종료: F4
 
--contact :: dlwlgur7@naver.com
+-contact :: @ovoim
